@@ -1,10 +1,10 @@
-from distutils.core import setup
+from setuptools import setup
 
 setup(
     name='getmwmap',
     version='1.0.0',
     packages=['getmwmap'],
-    url='',
+    url='https://github.com/KindLittleTurtle/getmwmap',
     license='AGPL3.0',
     author='MWCTTO',
     author_email='to@mwtour.cn',
