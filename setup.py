@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='getmwmap',
-    version='1.0.1',
+    version='1.0.2',
     packages=['getmwmap'],
     url='https://github.com/KindLittleTurtle/getmwmap',
     license='AGPL3.0',
